@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "edition": "phoneuse",
+  "productName": "Boujoy Phone Use",
+  "desktopVersion": "0.4.16",
+  "desktopBuild": 20,
+  "bundleId": "dev.boujoy.phoneuse.desktop",
+  "androidApplicationId": "dev.boujoy.phoneuse",
+  "androidNamespace": "dev.boujoy.personalagent",
+  "androidVersion": "1.0.52",
+  "androidVersionCode": 54,
+  "bindScheme": "boujoy-phoneuse",
+  "port": 18891,
+  "gatewayPort": 18991,
+  "dataDirectoryName": "Boujoy Phone Use",
+  "memoryDirectoryName": "Boujoy-PhoneUse-Memory",
+  "keychainAccount": "boujoy-phoneuse",
+  "keychainServicePrefix": "dev.boujoy.phoneuse",
+  "launchdLabel": "dev.boujoy.phoneuse.service",
+  "supportsBackground": false,
+  "sourceBaseVersion": "1.0.52/code54",
+  "sourceBaseManifestSha256": "91e55cdb5a46828a3bb2d6341fa5f3a5760d2c36bc48b37e0e3c6965b68d01d0"
+}
