@@ -1,10 +1,8 @@
-# Boujoy Phone Use
+# Boujoy Personal Agent
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-Control a paired Android 13+ phone on its main screen from a Mac. Select your own device during setup.
-
-Boujoy connects a Mac-hosted assistant to the apps on your phone. Send it a task in chat. The Mac runs the agent, the phone reports what is on screen, and you can follow progress or take control. The project includes the Mac service, Android companion, pairing relay and local Markdown memory.
+Ask once, and watch your Android work through the steps. Boujoy runs on your Mac, reads the paired phone’s screen and operates its apps. Ask it to compare two listings and it can bring the prices and sizes back to chat. You decide when to take over.
 
 ### Try a read-only task
 

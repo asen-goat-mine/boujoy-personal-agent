@@ -1,10 +1,8 @@
-# Boujoy Phone Use
+# Boujoy Personal Agent
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-在 Mac 上运行助理，用已配对的 Android 13+ 手机执行任务。通用版操作手机主屏，在设置中选择自己的设备。
-
-你可以在聊天里把一件事交给 Boujoy。Mac 上的助理负责分解任务，手机执行操作并返回当前画面；你可以随时查看进度或接手。仓库包含 Mac 服务、Android 客户端、配对中继和本地 Markdown 记忆。
+你说一句「帮我看看哪款更划算」，Boujoy 就能打开手机上的 App，翻过几个页面，把看到的价格和规格带回聊天。Mac 负责规划，Android 负责操作，每一步都可以查看，什么时候接手由你决定。
 
 ### 第一次可以试什么
 
